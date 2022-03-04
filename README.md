@@ -1,5 +1,7 @@
 # Ontologies and Knowledge Graphs
 
+https://medium.com/codex/understanding-ontologies-and-knowledge-graphs-4664afc4f961
+
 ### Ontologies:
 
 These are semantic data models that comtain genric information about an entity, but not the specific details concerning a particular entity. For example, an ontology will have properties of humans and associted relations, but it will not have information about a particular human like you or me. This general definition of a human can be later used to define a particular human being.
